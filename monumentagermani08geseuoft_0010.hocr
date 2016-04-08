@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentagermani08geseuoft/monumentagermani08geseuoft_0010.png"; bbox 0 0 2189 2984; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 909 1140 1143 1254">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 909 1140 1143 1254">
+     <span class='ocr_line' id='line_1_1' title="bbox 913 1140 941 1186; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 913 1140 941 1186; x_wconf 60' lang='lat' dir='ltr'>j</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 913 1196 1143 1230; baseline -0.013 -4"><span class='ocrx_word' id='word_1_2' title='bbox 913 1206 945 1230; x_wconf 59' lang='lat' dir='ltr'><strong>w}</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 964 1204 981 1218; x_wconf 66' lang='lat'><strong><em>0</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1011 1199 1015 1221; x_wconf 79' lang='grc' dir='ltr'><strong><em>ἕ</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1110 1196 1143 1223; x_wconf 43' lang='lat'><strong>522</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 909 1218 1135 1254; baseline -0.009 0"><span class='ocrx_word' id='word_1_6' title='bbox 909 1220 982 1254; x_wconf 60' lang='grc' dir='ltr'><strong>έιίὶ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1009 1228 1046 1237; x_wconf 43' lang='grc' dir='ltr'><em>Μ</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1081 1218 1089 1229; x_wconf 87' lang='lat'><em>‘</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1129 1225 1135 1241; x_wconf 53' lang='grc' dir='ltr'><strong>ἑ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 918 2680 1459 2707">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 918 2680 1459 2707">
+     <span class='ocr_line' id='line_1_4' title="bbox 918 2680 1459 2707; baseline -0.009 -2"><span class='ocrx_word' id='word_1_10' title='bbox 918 2685 950 2705; x_wconf 83' lang='lat' dir='ltr'><strong>Ex</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 965 2685 1053 2704; x_wconf 79' lang='lat' dir='ltr'>officina</span> <span class='ocrx_word' id='word_1_12' title='bbox 1067 2684 1130 2704; x_wconf 72' lang='lat' dir='ltr'>aulae</span> <span class='ocrx_word' id='word_1_13' title='bbox 1145 2682 1288 2704; x_wconf 70' lang='lat' dir='ltr'><strong>Vimesieusis</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1305 2680 1459 2707; x_wconf 71' lang='lat' dir='ltr'><strong>typographica</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
